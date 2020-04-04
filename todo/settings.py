@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'tasks',#.apps.TasksConfig',
-    'django_google_maps',
+     
 ]
 
 MIDDLEWARE = [
